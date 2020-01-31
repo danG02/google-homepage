@@ -55,3 +55,23 @@
     left: 400px;
     top: 400px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+li {
+    display: inline;
+}
+.left {
+    position: absolute;
+    top: 25px;
+    transform: scale(0.9);
+}
+.right {
+    position: absolute;
+    left: 1300px;
+    top: 25px;
+    transform: scale(0.9);
+}
