@@ -1,3 +1,57 @@
-title {
+.G {
+    color: blue;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+    font-size: 100px;
+}
+.o1 {
+    color: red;
+    position: absolute;
+    left: 680px;
+    top: 200px;
+    font-size: 100px;
+}
+.o2 {
+    color: yellow;
+    position: absolute;
+    left: 730px;
+    top: 200px;
+    font-size: 100px;
+}
+.g {
+    color: blue;
+    position: absolute;
+    left: 780px;
+    top: 200px;
+    font-size: 100px;
+}
+.l {
     color: green;
+    position: absolute;
+    left: 830px;
+    top: 200px;
+    font-size: 100px;
+}
+.e {
+    color: red;
+    position: absolute;
+    left: 860px;
+    top: 200px;
+    font-size: 100px;
+}
+.b1 {
+    position: absolute;
+    left: 620px;
+    top: 450px;
+}
+.b2 {
+    position: absolute;
+    left: 720px;
+    top: 450px;
+}
+#search  {
+    position: absolute;
+    left: 400px;
+    top: 400px;
 }
